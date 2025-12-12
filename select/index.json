@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "プロポーズ Cover / Gero",
+  "base_artist": "Gero",
+  "createdAt": "2025-12-12T08:59:21.936257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/01_プロポーズ_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "SID",
+      "has_synced": false,
+      "path": "select/02_プロポーズ_SID.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/03_プロポーズ_シド.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "すとぷり",
+      "has_synced": true,
+      "path": "select/04_プロポーズ_すとぷり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": false,
+      "path": "select/05_プロポーズ_PRINCESS_PRINCESS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "内緒のピアス",
+      "has_synced": true,
+      "path": "select/06_プロポーズ_内緒のピアス.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "麻婆豆腐",
+      "has_synced": true,
+      "path": "select/07_プロポーズ_麻婆豆腐.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/08_プロポーズ_9Lana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プロポーズ / 可不",
+      "artist": "内緒のピアス",
+      "has_synced": true,
+      "path": "select/09_プロポーズ___可不_内緒のピアス.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "Jyunretsu",
+      "has_synced": true,
+      "path": "select/10_プロポーズ_Jyunretsu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/11_プロポーズ_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "プリンセス・プリンセス",
+      "has_synced": false,
+      "path": "select/12_プロポーズ_プリンセス・プリンセス.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "プロポーズ",
+      "artist": "TUBE",
+      "has_synced": true,
+      "path": "select/13_プロポーズ_TUBE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "プロポーズ - propose",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/14_プロポーズ_-_propose_9Lana.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "プロポーズ - propose",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/15_プロポーズ_-_propose_9Lana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プロポーズ",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_プロポーズ_HoneyWorks.txt"
+    }
+  ]
+}
